@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+app/config/
+app/logs/
+app/animation_studio/local_tools.json
+*.db
+*.db-wal
+*.db-shm
+*.blend1
+.env
+*.lnk
